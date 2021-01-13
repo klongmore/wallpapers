@@ -46,3 +46,7 @@
 [ 08/11/2020 14:23:19.674 main FATAL ERROR ] Failed to create new session.
 [ 08/11/2020 14:27:51.496 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
 [ 08/11/2020 14:27:51.496 main FATAL ERROR ] Failed to create new session.
+[ 10/03/2020 02:23:18.247 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 10/03/2020 02:23:18.247 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:48:05.661 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:48:05.661 main FATAL ERROR ] Failed to create new session.
