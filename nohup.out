@@ -50,3 +50,19 @@
 [ 10/03/2020 02:23:18.247 main FATAL ERROR ] Failed to create new session.
 [ 01/14/2021 01:48:05.661 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
 [ 01/14/2021 01:48:05.661 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:51:13.571 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:51:13.571 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:51:46.917 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:51:46.917 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:52:38.798 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:52:38.798 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:52:46.358 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:52:46.358 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:54:52.553 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:54:52.553 main FATAL ERROR ] Failed to create new session.
+[ 01/14/2021 01:55:33.876 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 01/14/2021 01:55:33.876 main FATAL ERROR ] Failed to create new session.
+[ 02/08/2021 01:13:13.237 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 02/08/2021 01:13:13.237 main FATAL ERROR ] Failed to create new session.
+[ 02/08/2021 01:13:46.274 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 02/08/2021 01:13:46.274 main FATAL ERROR ] Failed to create new session.
