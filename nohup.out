@@ -1,0 +1,2 @@
+[ 06/01/2022 00:32:10.836 parse_config_libconfig FATAL ERROR ] Failed to read configuration file ".config/picom/picom.conf".
+[ 06/01/2022 00:32:10.836 main FATAL ERROR ] Failed to create new session.
