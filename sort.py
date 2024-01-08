@@ -8,7 +8,7 @@ os.system('mkdir -p ' + ppath + '/mobile/')
 os.system('mkdir -p ' + ppath + '/square/')
 os.system('mkdir -p ' + ppath + '/desktop/')
 for file in [f for f in listdir(ppath) if isfile(join(ppath, f))]:
-    if file.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
+    if file.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif', '.webp')):
         img = Image.open(ppath + '/' + file)
         ratio = round(img.size[0] / img.size[1], 1)
         if ratio <= 0.8:
