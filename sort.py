@@ -3,6 +3,8 @@ import os
 from os import listdir
 from os.path import isfile, join, dirname, realpath
 
+# this code sucks, will update this eventually and also add auto sorting for gif/video
+
 ppath = dirname(realpath(__file__))
 os.system('mkdir -p ' + ppath + '/mobile/')
 os.system('mkdir -p ' + ppath + '/square/')
